@@ -1,0 +1,6 @@
+{
+  "name": "Mister Jo - Dynamics Lab",
+  "description": "15 Tantangan HOTS Dinamika Gerak Lurus – Pahami Gaya, Kuasai Gerak!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
